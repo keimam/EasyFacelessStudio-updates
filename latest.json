@@ -1,8 +1,7 @@
 {
   "version": "1.0.2",
-  "released": "2026-12-01",
-  "notes_id": "Perbaikan stabilitas ekspor CapCut dan dukungan sumber footage tambahan.",
-  "notes_en": "CapCut export stability improvements and enhanced stock footage matching.",
-  "download_url": "https://example.com/releases/EasyFacelessStudio-Setup-1.0.2.exe",
-  "min_supported": "1.0.0"
+  "released": "2026-11-27",
+  "notes_id": "Pembaruan EasyFaceless Studio 1.0.2 membuat produksi video lebih cepat lewat cache 24 jam Pixabay dan pengunduhan/penyusunan klip paralel, serta menambah sumber footage arsip Internet Archive (tanpa key) dan Smithsonian Open Access. Tersedia pula Penyedia AI cadangan yang otomatis pindah lintas penyedia (OpenRouter, Gemini Flash, Groq, DeepSeek), jembatan Gambar Eksternal 3 tab untuk Google Flow dan Zapi, profil jaringan Lambat, serta status Visual selesai sebagian.",
+  "notes_en": "EasyFaceless Studio 1.0.2 speeds up video production with a 24-hour Pixabay search cache and faster parallel fetching/clip assembly, while adding curated historical archival sources from Internet Archive (no key required) and Smithsonian Open Access. This update also introduces automatic Backup AI provider failover across OpenRouter, Gemini Flash, Groq, and DeepSeek, a 3-tab External Images workflow for Google Flow and Zapi, a Slow connection profile, and clearer partially-done Visual status reporting.",
+  "download_url": "https://drive.google.com/drive/folders/1IarZj2_gX5YwToUdpB1uTmhidwTSuicH?usp=sharing"
 }
